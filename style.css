@@ -13,3 +13,18 @@ ul {
 .continue {
     color: red;
 }
+
+.pos-exercise .wrapper {
+    width: 700px;
+}
+
+.pos-exercise .container {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin-right: 30px;
+}
+
+.pos-exercise .redBgr { background-color: red; }
+.pos-exercise .yellowBgr { background-color: yellow; }
+.pos-exercise .greenBgr { background-color: green; }
